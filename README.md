@@ -41,7 +41,7 @@ Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Typescript&logoColor=5df58b)
-![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Node.js&logoColor=3178C6)
+![JQuery](https://img.shields.io/badge/-JQuery-black?style=for-the-badge&logo=jquery&logoColor=3178C6)
 ![C & C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C%20&%20C++)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)    
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
