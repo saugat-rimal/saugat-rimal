@@ -80,7 +80,7 @@ Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 ### You can find in me in the web 🌍
 
 [![Twitter: saugatrimal60](https://img.shields.io/twitter/follow/saugatrimal60?style=social)](https://twitter.com/saugatrimal60)
-[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://blog.saugatreemal.engineer/)
+[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://timeline.saugatreemal.engineer/)
 [![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatreemal.engineer/)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatrimal60/)
 [![Linkedin: saugatrimal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saugatrimal/)](https://www.linkedin.com/in/saugatrimal/)
