@@ -4,7 +4,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat-rimal&label=Profile Views&color=blue&style=plastic" alt="saugat-rimal" /> </p>
 
-Hi, I'm Saugat Rimal,👨‍💻 **`Full-Stack Developer`** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about Cyber.  I have always loved creating something out of nothing.😉
+Hi, I'm Saugat Rimal,👨‍💻 **`Web Designer`** who is exploring Frontend Development while facilitating the world🌍 with User Experience with my Design Thinking Skills 🧐 and Enthusiast about Cyber.  I have always loved creating something out of nothing.😉
 
 Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 
@@ -15,13 +15,13 @@ Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 - 🔭 I’m love exploring🔭 the world🌍 inside the computer💻.
-- 🌱 I’m currently learning **Cloud Computing☁️** & **Cyber Security**👨‍💻.
+- 🌱 I’m currently learning **Frontend Development📝** & **Cyber Security**👨‍💻.
 - 👯 I’m looking to collaborate on crafting great **web experiences🤝**.
 - 🤔 I’m looking for help with my **Front-End Designing🤙**.
 - 💬 Ask me about anything, I am happy😁 to help👯. 
 - 😄 Nickname: Dark Demon 🏴‍☠️
 - ⚡ Fun fact: I love building🧱 and occasionally **designing✍️** exceptional **digital experiences**.
-- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://blog.saugatreemal.engineer/)
+- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://diary.saugatreemal.engineer/)
 - ☕ 👇 We can have coffee too 😄
  
  <a href="https://www.buymeacoffee.com/saugatrimal"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-fd0?style=flat"> </a>
@@ -80,7 +80,7 @@ Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 ### You can find in me in the web 🌍
 
 [![Twitter: saugatrimal60](https://img.shields.io/twitter/follow/saugatrimal60?style=social)](https://twitter.com/saugatrimal60)
-[![Hashnode](http://img.shields.io/badge/-Blog-2962ff?style=flat&logo=hashnode&logoColor=white&link=https://blog.saugatreemal.engineer/)](https://blog.saugatreemal.engineer/)
+[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://blog.saugatreemal.engineer/)
 [![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatreemal.engineer/)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatrimal60/)
 [![Linkedin: saugatrimal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saugatrimal/)](https://www.linkedin.com/in/saugatrimal/)
