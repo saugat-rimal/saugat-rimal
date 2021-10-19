@@ -62,6 +62,16 @@ Working 💼 [**`@Hyburtech`**](https://hyburtech.com/) as a Web Developer.
 ### My GitHub Status📈: 
 
  
+<div align="center">
+
+<a href="https://github.com/saugat-rimal/github-stats">
+  
+![](https://raw.githubusercontent.com/saugat-rimal/github-stats/master/generated/overview.svg)
+![](https://github.com/saugat-rimal/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
 
 [![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=saugat-rimal&theme=radical)](https://github.com/saugat-rimal)
 <p>
