@@ -21,7 +21,7 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 - 💬 Ask me about anything, I am happy😁 to help👯. 
 - 😄 Nickname: Dark Demon 🏴‍☠️
 - ⚡ Fun fact: I love building🧱 and occasionally **designing✍️** exceptional **digital experiences**.
-- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://diary.saugatreemal.engineer/)
+- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://diary.saugatrimal.com.np/)
 - ☕ 👇 We can have coffee too 😄
  
  <a href="https://www.buymeacoffee.com/saugatrimal"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-fd0?style=flat"> </a>
@@ -80,13 +80,13 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 ### You can find in me in the web 🌍
 
 [![Twitter: saugatrimal60](https://img.shields.io/twitter/follow/saugatrimal60?style=social)](https://twitter.com/saugatrimal60)
-[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://timeline.saugatreemal.engineer/)
-[![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatreemal.engineer/)
+[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatrimal.com.np/)](https://timeline.saugatreemal.engineer/)
+[![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatrimal.com.np/)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatrimal60/)
 [![Linkedin: saugatrimal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saugatrimal/)](https://www.linkedin.com/in/saugatrimal/)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saugatrimal60@gmail.com)
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mail@saugatrimal.com.np)
 [![GitHub saugat-rimal](https://img.shields.io/github/followers/saugat-rimal?label=follow&style=social)](https://github.com/saugat-rimal)
-[![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)](https://saugatreemal.engineer/)
+[![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)](https://saugatrimal.com.np/)
 [![Facebook](https://img.shields.io/badge/-Facebook-2962ff?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/saugatrimal.pro/)](https://www.facebook.com/saugatrimal.pro/)
 [![CodePen](https://img.shields.io/badge/-codepen-black?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/saugatrimal)](https://codepen.io/saugatrimal)
 
