@@ -10,7 +10,7 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
-<img align="right" alt="GIF" height="450px"  src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
+<img align="right" alt="GIF" height="450px"  width="450px"  src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
