@@ -61,13 +61,24 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 
 ### My GitHub Status📈: 
 
- 
 
-[![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=saugat-rimal&theme=radical)](https://github.com/saugat-rimal)
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=saugat-rimal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saugat-rimal&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+
+<p align="center">
+    <a href="https://github.com/saugat-rimal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saugat Rimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saugat-rimal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+
+  <br/>
+    <a href="https://github.com/alsoamit/github-readme-stats"><img alt="Amit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saugat-rimal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/alsoamit/github-readme-stats"><img alt="Saugat Rimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saugat-rimal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
+<a href="https://github.com/saugat-rimal/github-readme-activity-graph"><img alt="Saugat Rimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saugat-rimal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 
 **NOTE:** Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
