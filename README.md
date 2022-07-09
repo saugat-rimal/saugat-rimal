@@ -10,7 +10,9 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
-<img align="right" alt="GIF" height="350px"  width="350px"  src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
+<!-- <img align="right" alt="GIF" height="350px"  width="350px"  src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
+ -->
+<a href="https://app.daily.dev/saugatrimal"><img src="https://github.com/saugat-rimal/saugat-rimal/blob/main/devcard.svg" align="right" width="350" alt="Saugat Rimal's Dev Card"/></a>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
@@ -119,6 +121,5 @@ Github Profile Readme Inspired by [@saugat-rimal](https://github.com/saugat-rima
 
 </div>
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=86593756) -->
 
-<a href="https://app.daily.dev/saugatrimal"><img src="https://github.com/saugat-rimal/saugat-rimal/blob/main/devcard.svg" width="400" alt="Saugat Rimal's Dev Card"/></a>
+
