@@ -119,4 +119,6 @@ Github Profile Readme Inspired by [@saugat-rimal](https://github.com/saugat-rima
 
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=86593756)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=86593756) -->
+
+<a href="https://app.daily.dev/saugatrimal"><img src="https://api.daily.dev/devcards/856b9f78f72a4e14b11fe07a4c26dd5f.png?r=1ut" width="400" alt="Saugat Rimal's Dev Card"/></a>
