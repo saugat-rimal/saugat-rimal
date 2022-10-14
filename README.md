@@ -109,6 +109,8 @@ Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior W
 
 <div align="center">  
       
+[![@saugatrimal's Holopin board](https://holopin.me/saugatrimal)](https://holopin.io/@saugatrimal)
+      
  
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
