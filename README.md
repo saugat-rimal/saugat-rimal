@@ -6,7 +6,7 @@
 
 Hi, I'm Saugat Rimal,👨‍💻  <a href="https://saugatrimal.com.np">**`Web Designer`**</a> who is exploring Frontend Development while facilitating the world🌍 with User Experience with my Design Thinking Skills 🧐 and Enthusiast about Cyber.  I have always loved creating something out of nothing.😉
 
-Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior Wordpress Developer.
+Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Wordpress Developer.
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
