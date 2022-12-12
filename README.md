@@ -92,7 +92,7 @@ Open to work 💼 as a  [**`Wordpress Developer | Frontend Developer`**](https:/
 ### You can find in me in the web 🌍
 
 [![Twitter: saugatrimal60](https://img.shields.io/twitter/follow/saugatrimal60?style=social)](https://twitter.com/saugatrimal60)
-[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatrimal.com.np/)](https://timeline.saugatreemal.engineer/)
+[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatrimal.com.np/)](https://timeline.saugatrimal.com.np/)
 [![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatrimal.com.np/)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatrimal60/)
 [![Linkedin: saugatrimal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saugatrimal/)](https://www.linkedin.com/in/saugatrimal/)
