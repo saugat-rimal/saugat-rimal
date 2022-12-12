@@ -80,7 +80,7 @@ Open to work 💼 as a  [**`Wordpress Developer | Frontend Developer`**](https:/
 
 <br/>
 
-<a href="https://github.com/saugat-rimal/github-readme-activity-graph"><img alt="Saugat Rimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saugat-rimal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/saugat-rimal/github-readme-activity-graph"><img alt="Saugat Rimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saugat-rimal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
